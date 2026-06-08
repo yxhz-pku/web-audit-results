@@ -1,0 +1,15 @@
+
+===== 目录扫描结果 =====
+[不存在] /upload
+[不存在] /test
+[发现敏感路径] /login
+[不存在] /db.sql
+[不存在] /config.php
+[发现敏感路径] /
+[发现敏感路径] /backup.zip
+[发现敏感路径] /admin
+[不存在] /administrator
+[不存在] /admin/login
+[不存在] /static
+===== 凭据爆破结果 =====
+未破解出有效凭据
