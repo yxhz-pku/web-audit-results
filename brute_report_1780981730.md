@@ -1,0 +1,5 @@
+target_url = http://192.168.157.129/wordpress/wp-login.php
+crack_time = 2026-06-09T13:00:07.614803
+account = admin
+password = Admin@123
+redirect_url = http://192.168.157.129/wordpress/wp-admin/
