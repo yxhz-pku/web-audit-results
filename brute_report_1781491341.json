@@ -1,0 +1,7 @@
+{
+    "target_url": "http://192.168.157.129/wordpress/wp-login.php",
+    "crack_time": "2026-06-15T10:41:09.920442",
+    "account": "admin",
+    "password": "Admin@123",
+    "redirect_url": "http://192.168.157.129/wordpress/wp-admin/"
+}
